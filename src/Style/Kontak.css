@@ -1,0 +1,15 @@
+#kontak_bg {
+  background-image: url("https://cutewallpaper.org/21/ink-in-water-wallpaper-hd/Wallpaper-colorful-red-blue-ink-barcode-German-paint-.jpg");
+
+  height: 730px;
+}
+
+.kontak {
+  color: black;
+
+  text-align: center;
+
+  margin-top: 208px;
+
+  background-color: white;
+}
